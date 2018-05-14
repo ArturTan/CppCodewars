@@ -1,0 +1,1 @@
+/usr/bin/g++-7      CMakeFiles/codewars.dir/main.cpp.o CMakeFiles/codewars.dir/Poker/src/Poker.cpp.o  -o codewars -rdynamic 

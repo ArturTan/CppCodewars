@@ -1,0 +1,4 @@
+/home/artur/Dokumenty/cpp/codewars/CppCodewars/CMakeFiles/edit_cache.dir
+/home/artur/Dokumenty/cpp/codewars/CppCodewars/CMakeFiles/rebuild_cache.dir
+/home/artur/Dokumenty/cpp/codewars/CppCodewars/CMakeFiles/headers.dir
+/home/artur/Dokumenty/cpp/codewars/CppCodewars/CMakeFiles/codewars.dir
